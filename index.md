@@ -1,4 +1,3 @@
-# David Warner Jr
 📍 Frederick, MD | ✉️ david.a.warner.jr@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/david-warner-jr-096)
 
 ## Work Experience
