@@ -2,7 +2,7 @@
 📍 Frederick, MD | ✉️ david.a.warner.jr@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/david-warner-jr-096)
 
 ## Work Experience
-**Systems Engineer Intermediate** | Federal Energy Regulatory Commission  *(Oct 2026 - Present)*
+**Systems Engineer Intermediate (CTR)** | Federal Energy Regulatory Commission  *(Oct 2026 - Present)*
 * Performed software product reviews to assess security impacts
 * Evaluated change requests to ensure organizational compliance
 * Assisted in Secure Cloud Business Applications (SCuBA) project
@@ -11,7 +11,7 @@
 * Worked assigned ServiceNow tickets to troubleshoot reported issues.
 * Utilized Azure DevOps boards to manage project timelines, and work assigned tasks
 
-**Cybersecurity Engineer II** | Edgewater Federal Solutions *(Jan 2024 - Oct 2026)*
+**Cybersecurity Engineer II** | Edgewater Federal Solutions *(Jan 2024 - Present)*
 * Serve as the lead of the Cybersecurity Mitigation & Response Team (CMRT)
 * Support instances of Microsoft Sentinel as a subject matter expert (SME)
 * Develop robust KQL queries & automations to meet organizational needs
